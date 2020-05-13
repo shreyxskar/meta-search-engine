@@ -1,0 +1,45 @@
+store data in csv-> one.py (& three.py)
+
+DELETE TABLE-> nine.py
+
+create table with data in csv-> six.py
+
+extract review date from page -> four.py
+
+each page of each hotel review-> five.py
+
+logic -> eight.py
+
+length of data in varchar ->seven.py
+
+load1.py->first page for customer.py
+eleven.py->first page for hotelier.py
+rankpage.py->page for rankings.py
+homepage.py->links for load1.py, eleven.py, rankings.py
+see.py->inside rankpage.py
+
+customer.py
+hotelier.py
+rankings.py
+--------------------------------------------------------------
+
+unhygienic
+bad
+worst
+delayed
+problem
+slow
+--------------------------------------------------------------
+
+
+fast
+great 
+awesome
+good
+outstanding
+best
+--------------------------------------------------------------
+
+HOT_REV(HOTEL_NAME VARCHAR(100),HOTEL_LINK VARCHAR(200)
+            ,CUSTOMER_NAME VARCHAR(50),REVIEW_DATE VARCHAR(10)
+            ,REVIEW VARCHAR(500)  

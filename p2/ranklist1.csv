@@ -1,0 +1,644 @@
+6,Hyatt Centric Candolim Goa
+7,La Vie Woods
+8,Santana Beach Resort
+9,Beleza by the Beach
+10,Mayfair Hideaway Spa Resort
+11,Holiday Inn Resort Goa
+12,ibis Styles Goa Calangute Resort
+13,Heritage Village Resort & Spa Goa
+14,Castle House Palolem South Goa
+15,Phoenix Park Inn Resort
+17,Surya Kiran Heritage
+20,Grand Hyatt Goa
+23,White Woods Resort & Spa
+25,Kalki Resort And Cottages
+27,bloomrooms @  Calangute
+28,La Sunila Suites
+29,Nordest Lemonmint Beach Resort Goa
+32,Fahrenheit Hotels and Resorts
+33,The Tamarind Hotel
+34,Baywatch Express
+35,Goa Villagio
+36,Treebo Trend Vila De Goa
+37,Palette Resort - Beira Mar Beach
+38,Carina Beach Resort
+41,Samaayaa
+44,Varanda do Mar
+45,"Red Fox Hotel, Morjim, Goa"
+49,Casa Legend
+50,The Crown Goa
+55,L'Amore Beach Cottages
+56,Fortune Acron Regina
+58,I Love Bell Bottoms
+59,Emperor Resorts & Spa
+60,"Royal Orchid Beach Resort & Spa, Goa"
+61,Acron Waterfront Resort
+63,Treehouse Silken Sands
+65,"Vivanta Goa, Panaji"
+66,The Ivy Anjuna
+67,Quality Inn Ocean Palms Goa
+68,Treehouse Nova
+69,Nagoa Grande Resort & Spa
+70,Chalston Beach Resort
+71,Silver Sands Serenity
+74,Moradia dos Quadros
+76,Swati Hotel
+77,Radisson Blu Resort Goa Cavelossim Beach
+78,Coconut Creek
+79,Miramar Residency
+81,Novotel Goa Dona Sylvia Resort
+82,Quinta Serena Holiday Resort
+88,Mint Rendezvous Beach Resort
+90,Resort Terra Paraiso
+91,"Lemon Tree Hotel, Candolim, Goa"
+92,Martin's Comfort
+93,Nanu Resort Arambol
+95,Spazio Leisure Resort
+96,Novotel Goa Resort & Spa
+98,The Banyan Soul
+99,The Leela Goa
+100,Resort Rio
+101,Hotel Fidalgo goa
+102,Angels Resort
+104,Casa Vagator
+105,Grande Delmon
+106,Ziva Suites
+107,Kay's Riverview Resort
+109,Sonesta Inns Resort
+110,Casablanca
+111,Renzo's Inn
+112,Pinto Rosario Square Resort and Spa
+114,Joia Do Mar Resort
+115,Radisson Goa Candolim
+117,Banyan Tree Courtyard
+119,Regenta Resort Varca Beach
+122,Veronica Guest House
+126,SinQ Beach Resort
+127,Casa Menezes
+129,Marbella Guesthouse
+130,Marina Bay Beach Resort
+131,Nanu Beach Resort & Spa
+134,Sterling Goa Bardez
+136,Little India Beach Cottages
+137,Hotel Bougainvillea - Granpa's Inn
+141,Amigo Plaza
+142,Leoney Resort
+143,"Taj Fort Aguada Resort & Spa, Goa"
+146,Bogmallo Beach Resort
+150,The Fern Residency Miramar Hotel & Spa
+1,Fairfield by Marriott Goa Anjuna
+2,OYO Flagship 17197 Hotel Horizon
+4,Neemrana's Arco Iris Noble Home
+5,Whispering Palms Beach Resort
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+20
+23
+25
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+41
+44
+45
+49
+50
+55
+56
+58
+59
+60
+61
+63
+65
+66
+67
+68
+69
+70
+71
+74
+76
+77
+78
+79
+81
+82
+88
+90
+91
+92
+93
+95
+96
+98
+99
+100
+101
+102
+104
+105
+106
+107
+109
+110
+111
+112
+114
+115
+117
+119
+122
+126
+127
+129
+130
+131
+134
+136
+137
+141
+142
+143
+146
+150
+1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+20
+23
+25
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+41
+44
+45
+49
+50
+55
+56
+58
+59
+60
+61
+63
+65
+66
+67
+68
+69
+70
+71
+74
+76
+77
+78
+79
+81
+82
+88
+90
+91
+92
+93
+95
+96
+98
+99
+100
+101
+102
+104
+105
+106
+107
+109
+110
+111
+112
+114
+115
+117
+119
+122
+126
+127
+129
+130
+131
+134
+136
+137
+141
+142
+143
+146
+150
+1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+20
+23
+25
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+41
+44
+45
+49
+50
+55
+56
+58
+59
+60
+61
+63
+65
+66
+67
+68
+69
+70
+71
+74
+76
+77
+78
+79
+81
+82
+88
+90
+91
+92
+93
+95
+96
+98
+99
+100
+101
+102
+104
+105
+106
+107
+109
+110
+111
+112
+114
+115
+117
+119
+122
+126
+127
+129
+130
+131
+134
+136
+137
+141
+142
+143
+146
+150
+1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+20
+23
+25
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+41
+44
+45
+49
+50
+55
+56
+58
+59
+60
+61
+63
+65
+66
+67
+68
+69
+70
+71
+74
+76
+77
+78
+79
+81
+82
+88
+90
+91
+92
+93
+95
+96
+98
+99
+100
+101
+102
+104
+105
+106
+107
+109
+110
+111
+112
+114
+115
+117
+119
+122
+126
+127
+129
+130
+131
+134
+136
+137
+141
+142
+143
+146
+150
+1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+20
+23
+25
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+41
+44
+45
+49
+50
+55
+56
+58
+59
+60
+61
+63
+65
+66
+67
+68
+69
+70
+71
+74
+76
+77
+78
+79
+81
+82
+88
+90
+91
+92
+93
+95
+96
+98
+99
+100
+101
+102
+104
+105
+106
+107
+109
+110
+111
+112
+114
+115
+117
+119
+122
+126
+127
+129
+130
+131
+134
+136
+137
+141
+142
+143
+146
+150
+1
+2
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+17
+20
+23
+25
+27
+28
+29
+32
+33
+34
+35
+36
+37
+38
+41
+44
+45
+49
+50
+55
+56
+58
+59
+60
+61
+63
+65
+66
+67
+68
+69
+70
+71
+74
+76
+77
+78
+79
+81
+82
+88
+90
+91
+92
+93
+95
+96
+98
+99
+100
+101
+102
+104
+105
+106
+107
+109
+110
+111
+112
+114
+115
+117
+119
+122
+126
+127
+129
+130
+131
+134
+136
+137
+141
+142
+143
+146
+150
+1
+2
+4
+5
