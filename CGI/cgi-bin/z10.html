@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>Electronic Products hub</title>
+<style>
+select.optns
+{
+	width:20%;
+	height:15px;
+	border:7px solid #FDAB9F;
+	border-radius:10px;
+	padding: 5px 5px 5px 5px;
+	margin-bottom:10px;
+}
+div.header
+{
+	color:white;		
+	padding-top:3px;
+	padding-bottom:3px;
+	width:100%;
+	background-color:#00bfff;
+	text-align:center;
+	margin-bottom:10px;
+}
+div.user_bar
+{
+	width:100%;	
+	height:10px;
+	background-color:black;
+	color:white;
+	margin-bottom:25px;
+}
+input.query_bar
+{
+	width:26%;
+	border:7px solid #FDAB9F;
+	border-radius:10px;
+	padding: 5px 5px 5px 5px;
+	margin-bottom:10px;
+}
+input.sub_btn
+{
+	width:51%;
+	border:7px solid #FDAB9F;
+	border-radius:10px;
+	padding: 5px 5px 5px 5px;
+	background-color:white;
+	margin-top:10px;
+}
+iframe.load_res
+{
+		
+}
+input.sub_btn:hover
+{
+	background-color:#E0E0E0;
+}
+input.query_bar:hover
+{
+	background-color:#E0E0E0;
+}
+input.fname_bar
+{
+	width:25%;
+	border:7px solid #FDAB9F;
+	border-radius:10px;
+	padding: 5px 5px 5px 5px;
+}
+input.fname_bar:hover
+{
+	
+	background-color:#E0E0E0;
+}
+input:focus
+{
+	outline:none !important;
+}
+</style>
+</head>
+<body>
+<div class="header" >
+<h1>Electronics Products hub</h1>
+</div>
+
+<form class="user_bar" method="post" name="form1" action="z2.py" target="load_res">
+<center>
+<input type="text" class="query_bar" name="query_bar" placeholder="Enter product name here" required>
+<input type="text" class="fname_bar" name="fname_bar" placeholder="Enter filename/database here" required>
+<br>
+Show results from :
+<select name="optns" required>
+<option name="1">Croma</option>
+<option name="2">Flipkart</option>
+<option name="3">Snapdeal</option>
+<option name="4" selected>All</option>
+</select>
+<p></p>
+Sort by :
+<select name="sort" required>
+<option name="asc">Ascending order</option>
+<option name="desc">Descending order</option>
+</select>
+<br>
+<input type="Submit" class="sub_btn" value="Search">
+</center>
+<br>
+<br>
+<br><p align="center">
+<iframe class="load_res" name="load_res" height="400px" width="1300px" frameborder="none">
+</p><center></form>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>1</title>
+<script>
+function f1()
+{
+	var x=document.forms["form1"]["urldata"].value;
+	if(x.length==0)
+	{
+		alert("URL field cannot be left blank!");
+		return false;
+	}
+}
+</script>
+</head>
+<body>
+<center style="padding-top:15px">
+<div class="outer_c" name="oc" style="border:2px solid black;width:500px;height:80%">
+<h1>Data Scraping</h1><hr><br><br>
+<form action="sixth.py" method="get" name="form1">
+<h3>Enter URL below :</h3>
+<input type="text" name="urldata" style="width:450px;height:40px;border-radius:10px;padding-left:10px" >
+<br><br>
+<input type="submit" value="Submit" onclick="return f1()" style="width:110px;height:35px;border-radius:7px">
+<input type="reset" value="Reset" style="width:110px;height:35px;border-radius:7px">
+</form>
+</div>
+</center>
+</body>
+</html>
